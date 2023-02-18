@@ -35,10 +35,10 @@ I'm a Mid-level Web Developer, super passionate about programming, and currently
 
 ### 📫 How to reach me:
 <div>
-    <a href="https://www.linkedin.com/in/rxdrigocosta/">
+    <a href="https://www.linkedin.com/in/rxdrigo-costa/"  target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/rxdrigocosta/">
+    <a href="https://www.instagram.com/rxdrigocosta/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="mailto:rxdrigocosta@gmail.com">
