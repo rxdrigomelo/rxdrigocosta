@@ -64,6 +64,9 @@ I'm a Mid-level Web Developer, super passionate about programming, and currently
     </tr> 
 </table>
 
+----
+
+### 🐍 Watch my contribution graph get eaten by the snake:
 ![Snake animation](https://github.com/rxdrigocosta/rxdrigocosta/blob/output/github-contribution-grid-snake.svg)
 
 <!--
