@@ -67,7 +67,11 @@ I'm a Mid-level Web Developer, super passionate about programming, and currently
 ----
 
 ### 🐍 Watch my contribution graph get eaten by the snake:
-![Snake animation](https://github.com/rxdrigocosta/rxdrigocosta/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxdrigocosta/rxdrigocosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxdrigocosta/rxdrigocosta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rxdrigocosta/rxdrigocosta/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **rxdrigocosta/rxdrigocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
