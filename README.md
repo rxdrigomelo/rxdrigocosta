@@ -11,7 +11,7 @@ I'm a Mid-level Web Developer, super passionate about programming, and currently
 - 💻 I'm currently working with PHP, Laravel, Vue.js, Docker, and PostgreSQL...
 - 🌱 I'm currently learning more about Node.js, Nest.js, and Typescript.
 - 💬 Ask me about anything, I'm happy to help.
-- ⚡ Fun fact: I'm a high elo valorant player.
+- ⚡ Fun fact: I'm a high elo Valorant player.
 
 ----
 
