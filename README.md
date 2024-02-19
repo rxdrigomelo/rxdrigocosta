@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/74683074/219884828-ec7344d8-3c44-476b-9b84-a0eac88d29e9.png)
 
-### Hi 👋, I'm Rodrigo Costa.
+### Hi 👋, I'm Rodrigo Melo.
 I'm a Mid-level Web Developer, super passionate about programming, and currently studying more and more!
 
 ----
